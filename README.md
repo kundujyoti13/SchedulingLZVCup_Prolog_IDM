@@ -1,10 +1,10 @@
 
-# Course Project for IDM
+#  Project for IDM
 -------------------
 
 ## Overview
 
-In this project assessment we are to submit a **team code and report** and **individual video** presentations on the problem of _designing complex sport game fixtures_. Our  system will need to be able to make decision regarding when, where, and how teams should play during a season. The domain will have specific hard and soft constraints that your decision making system would need to adhere too. There will be different level of achievements; see The Problem section below.
+In this project, our  system will need to be able to make decision regarding when, where, and how teams should play during a season. The domain will have specific hard and soft constraints that your decision making system would need to adhere too. There will be different level of achievements; see The Problem section below.
 
 The overarching aim of this project is that you go _deep_ on the problem and that you are able to communicate the problem, results, and learning achieved, both written and orally. In doing so, we are expected to seek and read the relevant literature (e.g., scientific papers, manuals, technical reports, etc.), develop the necessary code, design, run and analyse experiments, integrate the content and findings, and report it all, both written and orally.
 
